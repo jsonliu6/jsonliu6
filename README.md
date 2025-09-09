@@ -7,5 +7,5 @@ I'm JasonLiu 👉🧑‍💻
 I was born in 1991 and started programming 5 years ago. I focus on JavaScript and wanna create something cool.
 
 Contact me:
-1. 💬WeChat: _jason6
+1. 💬WeChat: Jason6ix
 2. ✉️E-mail: jsonliu2015@gmail.com
